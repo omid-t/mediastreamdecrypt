@@ -1,0 +1,21 @@
+{
+  "name": "mediastreamdecrypt",
+  "version": "0.0.3",
+  "description": "this is streamer and decrypter audio file ",
+  "cordova": {
+    "id": "cordova-plugin-media-stream-decrypt",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "omid",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "mediastreamdecrypt"
+  }
+}
